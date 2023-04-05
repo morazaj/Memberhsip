@@ -2,4 +2,3 @@ some text
  f
 s
 s
-s
